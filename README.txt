@@ -1,3 +1,5 @@
+A plotter that is using fork to create parallel workers that communicate with the main proccess through named pipes synched with the use of poll function in order to finally plot multiple shapes using gnu plot.
+
 Readme
 
 Thanasis Filippidis sdi1400215@di.uoa.gr
